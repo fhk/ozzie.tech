@@ -1,0 +1,105 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "Take Your Innovation Global"
+  content : "Ever wondered how the global tech industry is so successful? Do you want to launch your product globally? Hire the best talent? Learn what it's like to live in a tech hub? Hire a team and find a office location? \n OZZIE.TECH has the answers for you."
+  image : "images/hero-image/hero-slider-01.jpg"
+  button:
+    enable : true
+    label : "WHAT WE DO"
+    link : "#products"
+
+#################### Mission #####################
+mission:
+  enable : true
+  title : "What is OZZIE.TECH"
+  section : "MISSION"
+  content : "Introducing the world’s first Business Tourism Collaborative. We specialize in giving you the experience and contacts in the global market of your choice.<br><br>We bring you a curated experience to show you what it's like to be a local and operate your venture in a complex environment. Providing key support and advice to make sure your expansion is a success.<br><br>Attend key market events, visit vendor sites, incubators and engage directly with customers.<br><br>There really is nothing like experiencing a loction for yourself!"
+  video_thumb: "images/video-thumb.jpg"
+  video_id: "td-kedNdm5Q"
+
+
+#################### Vision #####################
+vision:
+  enable : true
+  section : "LOCATIONS"
+  title: "LOCATIONS"
+  content: "Our handpicked locations start here."
+  vision_item:
+  - title : "SF/Bay Area"
+    image : "images/vision/vision-01.jpg"
+    content : "The origional tech hub, the Silicon Valley is home to some of the worlds biggest household names which were once starups. With a huge support ecosystem and access to funding it can be a great choice to access the U.S. market. Soak up the unique social, food and tech scene. <br>SELECT * FROM EXPERIENCES."
+    
+  - title : "New York"
+    image : "images/vision/vision-02.jpg"
+    content : "Hustle and bustle a buffet of many industries especially fintech, or catch the L to Williamsburg and dive into hipsterdom."
+
+  - title : "Austin"
+    image : "images/vision/vision-03.jpg"
+    content : "Howdy Ya'll! Up and coming tech hub with a keep it weird kinda vibe. Grab some BBQ and see some music."
+    
+  - title : "London"
+    image : "images/vision/vision-01.jpg"
+    content : "A unique combination of the gateway to Europe and a self sufficient tech scene. Strong links to research via Oxford and Cambridge et al. especially biotech, quantum and AI."
+
+  - title : "Berlin"
+    image : "images/vision/vision-02.jpg"
+    content : "Curry wurst mit pommes. The launching place for many tech startups and home to many incubators. Easy access to precision engineering and other leading edge technologies."
+
+  - title : "Shanghai"
+    image : "images/vision/vision-03.jpg"
+    content : "Comming Soon"
+
+  - title : "Dubai"
+    image : "images/vision/vision-01.jpg"
+    content : "Comming Soon"
+
+  - title : "Bengaluru"
+    image : "images/vision/vision-02.jpg"
+    content : "Comming Soon"
+
+#################### product ####################
+product:
+  enable : true
+  section : "Experience"
+  title : "Expand Your Companies Market Horizons"
+  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  product_item:
+  - title : "2 Week"
+    image : "images/product/product-03.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+    
+  - title : "6 Week"
+    image : "images/product/product-02.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+    
+  - title : "Relocation"
+    image : "images/product/product-03.jpg"
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    project_url : "#"
+
+
+###################### Incentives #################
+incentives:
+  enable : true
+  title : "Incentives"
+  section : "INCENTIVES"
+  content : "EMDG, R&D Tax Credits"
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACT US"
+  title : "Contact Us"
+  image : "images/map-bg.jpg"
+  content : "Interested in an experience, need advice on where to start?<br>[hello@ozzie.tech](mailto:hello@ozzie.tech)"
+
+  
+################### call to action #################
+call_to_action:
+  enable : true
+  title : "Explore now with OZZIE.TECH<br>Click below to book the next experience."
+  button_label : "Book"
+  button_link : "career"
