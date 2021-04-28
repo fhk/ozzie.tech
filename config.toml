@@ -6,7 +6,6 @@ theme = "omega"
 googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
 unsafe= true
-staticDir = "static"
 publishDir = "docs"
 
 ######################### navigation ##############################
